@@ -1,3 +1,6 @@
 working on git to track my code!
 
-added some new changes! i'm practicing yay
+adding some new changes! i'm practicing yay
+
+ctrl cmd space adds emojis!
+🌙
